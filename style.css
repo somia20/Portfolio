@@ -405,7 +405,7 @@ button:focus {
     height: 100%;
     min-height: 400px;
     position: relative;
-    background-size: contain;
+    background-size: 500px;
     background-position: center;
     background-color: #ffc900;
 }
